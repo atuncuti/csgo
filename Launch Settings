@@ -1,0 +1,1 @@
+-novid -freq 144 -refresh 60 -tickrate 128 -nojoy -nod3d9ex1 +exec autoexec.cfg
